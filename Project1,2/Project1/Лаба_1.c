@@ -2,11 +2,18 @@
 
 #include <stdio.h>
 
+//void main()
+//{
+//	printf("Hello Wl!");
+//}
+
+
+#include <stdio.h>
+
 void main()
 {
-	printf("Hello Wl!");
+	printf("Hello World!");
 }
-
 
 //#include <stdio.h>
 //#include <Windows.h>
