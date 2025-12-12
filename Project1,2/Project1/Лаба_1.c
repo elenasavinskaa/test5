@@ -7,21 +7,8 @@ void main()
 	printf("Hello Wl!");
 	printf("Hello Wl!");
 	printf("Hello Wl!");
-	printf("Hello Wl!");
+	printf(" Wl!");
 }
-
-
-//#include <stdio.h>
-//#include <Windows.h>
-//
-//void main()
-//{
-//	SetConsoleCP(1251);
-//	SetConsoleOutputCP(1251);
-//
-//	printf("Hello World!");
-//	printf("Привет мир!");
-//}
 
 
 //#include <stdio.h>
